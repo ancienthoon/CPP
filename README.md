@@ -1,2 +1,2 @@
 # CPP
-Uploading ascode or BOJ for cpp users
+Uploading ascode or CODEFORCES for cpp users or else
